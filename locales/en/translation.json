@@ -1,0 +1,12 @@
+{
+  "test": "someText",
+  "headerTitle": "Weather Helper App",
+  "humidity": "Humidity",
+  "location": "Location",
+  "weatherIconPlaceHolder": "Current Weather",
+  "locationPlaceHolder": "Enter town, coordinates...",
+  "searchButtonText": "Search",
+  "signInButtonText": "Sign In",
+  "themeButtonText": "Theme",
+  "placeSearcherErrorMessage": "Enter correct location!"
+}
