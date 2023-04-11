@@ -1,12 +1,14 @@
-{
-  "test": "какой-тоТекст",
-  "headerTitle": "Умный Прогноз Погоды",
-  "humidity": "Влажность",
-  "location": "Локация",
-  "weatherIconPlaceHolder": "Текущая погода",
-  "locationPlaceHolder": "Введите город, координаты...",
-  "searchButtonText": "Поиск",
-  "signInButtonText": "Войти",
-  "themeButtonText": "Тема",
-  "placeSearcherErrorMessage": "Введите корректное местоположение!"
-}
+[
+  {
+    "test": "какой-тоТекст",
+    "headerTitle": "Умный Прогноз Погоды",
+    "humidity": "Влажность",
+    "location": "Локация",
+    "weatherIconPlaceHolder": "Текущая погода",
+    "locationPlaceHolder": "Введите город, координаты...",
+    "searchButtonText": "Поиск",
+    "signInButtonText": "Войти",
+    "themeButtonText": "Тема",
+    "placeSearcherErrorMessage": "Введите корректное местоположение!"
+  }
+]
