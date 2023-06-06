@@ -1,9 +1,5 @@
-import {createContext, Dispatch, SetStateAction} from "react";
-
-interface IThemeContext {
-    themeType: number;
-    setThemeType: Dispatch<SetStateAction<number>>;
-}
+import { createContext } from 'react';
+import { IThemeContext } from '../constants';
 
 const ThemeContext = createContext<IThemeContext>({
     themeType: 0,

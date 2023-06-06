@@ -1,5 +1,4 @@
 {
-  "test": "someText",
   "headerTitle": "Weather Helper App",
   "humidity": "Humidity",
   "location": "Location",
@@ -7,6 +6,10 @@
   "locationPlaceHolder": "Enter town, coordinates...",
   "searchButtonText": "Search",
   "signInButtonText": "Sign In",
+  "logOutButtonText": "Log Out",
   "themeButtonText": "Theme",
-  "placeSearcherErrorMessage": "Enter correct location!"
+  "placeSearcherErrorMessage": "Enter correct location!",
+  "pressureMeasurementValue": "mmHg",
+  "speedMeasurementValue": "m/s",
+  "feelsLike": "Feels like:"
 }
