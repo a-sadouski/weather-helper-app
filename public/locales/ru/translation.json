@@ -1,5 +1,4 @@
 {
-  "test": "какой-тоТекст",
   "headerTitle": "Умный Прогноз Погоды",
   "humidity": "Влажность",
   "location": "Локация",
@@ -7,6 +6,10 @@
   "locationPlaceHolder": "Введите город, координаты...",
   "searchButtonText": "Поиск",
   "signInButtonText": "Войти",
+  "logOutButtonText": "Выйти",
   "themeButtonText": "Тема",
-  "placeSearcherErrorMessage": "Введите корректное местоположение!"
+  "placeSearcherErrorMessage": "Введите корректное местоположение!",
+  "pressureMeasurementValue": "мм.рт.ст",
+  "speedMeasurementValue": "м/c",
+  "feelsLike": "Ощущается как:"
 }
